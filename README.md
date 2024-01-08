@@ -3,6 +3,7 @@ This Python script fetches COVID-19 statistics from the California state dashboa
 
 # Prerequisites
 Python 3.x
+
 Required Python libraries: requests, bs4 (BeautifulSoup), schedule, twilio
 
 # Setup
